@@ -8,7 +8,7 @@ If you already have [Chocolatey](https://chocolatey.org/install) installed: `cho
 
 ## Install Ruby
 
-From within Git Bash, run `pacman -S ruby gcc --noconfirm`
+From within Git Bash, run `pacman -S ruby gcc libcrypt-devel --noconfirm`
 
 ## Update Gems
 
