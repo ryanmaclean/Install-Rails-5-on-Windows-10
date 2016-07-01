@@ -12,7 +12,7 @@ From within Git Bash, run `pacman -S ruby gcc --noconfirm`
 
 ## Install Ruby on Rails 5
 
-Again from Git Bash, run `gem install rails`
+Again from Git Bash, run `gem install rails -V`
 
 This will take several minutes.
 
