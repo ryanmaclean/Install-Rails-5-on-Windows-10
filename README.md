@@ -16,7 +16,12 @@ Run the following in order to update install gems: `gem update`
 
 ## Install Nokogiri
 
-We'll manually install this as it's still problematic on Windows, though the next release promises to address some of the issues: `gem install https://rubygems.org/downloads/nokogiri-1.6.5-x64-mingw32.gem`
+We'll manually install this as it's still problematic on Windows, though the next release promises to address some of the issues: 
+
+```
+wget https://rubygems.org/downloads/nokogiri-1.6.5-x64-mingw32.gem
+gem install nokogiri-1.6.5-x64-mingw32.gem
+```
 
 ## Install Ruby on Rails 5
 
