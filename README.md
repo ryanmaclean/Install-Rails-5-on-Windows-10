@@ -1,4 +1,4 @@
-# Install-Rails-5-on-Windows-10
+# Install Ruby on Rails 5 on Windows 10
 
 ## Install Git Bash
 
