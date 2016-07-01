@@ -10,6 +10,10 @@ If you already have [Chocolatey](https://chocolatey.org/install) installed: `cho
 
 From within Git Bash, run `pacman -S ruby gcc --noconfirm`
 
+## Update Gems
+
+Run the following in order to update install gems: `gem update`
+
 ## Install Ruby on Rails 5
 
 Again from Git Bash, run `gem install rails -V`
